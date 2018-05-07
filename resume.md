@@ -10,9 +10,16 @@
 2. 捣鼓了一个寒假的Linux和PS
 3. 参加阿里云Geek公益大赛
 4. 研究数据结构
-# Header 1
-## Header 2
-### Header 3
+
+#### 为什么想要加入工作室
+-享受自学过程
+    while(alive)
+    {
+        code;
+        eat;
+        sleep;
+    }
+    
 
 - Bulleted
 - List
