@@ -1,10 +1,11 @@
-## Welcome to GitHub Pages
+## 黄蓉
 
-You can use the [editor on GitHub](https://github.com/Sophiarong/Sophiarong.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+信息与软件工程学院 数字信息处理专业
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- 电话号码：13675998737
+- 电子邮箱：1071022927@qq.com
 
-### Markdown
+#### 为什么加入工作室呢
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
