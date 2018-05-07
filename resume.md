@@ -5,13 +5,11 @@
 - 电话号码：13675998737
 - 电子邮箱：1071022927@qq.com
 ---
-#### 为什么加入工作室呢
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
+#### 个人经历（2018.1-至今）
+1.GPA3.9，专业排名21
+2.捣鼓了一个寒假的Linux和PS
+3.参加阿里云Geek公益大赛
+4.近期研究数据结构
 # Header 1
 ## Header 2
 ### Header 3
