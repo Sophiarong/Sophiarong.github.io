@@ -12,8 +12,8 @@
 4. 研究数据结构
 
 #### 为什么想要加入工作室
--享受自学过程
-    while(alive)
+- 享受自学过程
+    while(alive)
     {
         code;
         eat;
